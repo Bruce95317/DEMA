@@ -1,0 +1,7 @@
+python3 main.py
+.\windowsDEMA\Scripts\activate
+
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/Bruce95317/DEMA.git
+git push -u origin master
